@@ -25,7 +25,7 @@ const demoTransactions = [
   { id: 5, date: '2026-06-06', merchant: 'Streamly', category: 'Subscriptions', amount: 17.99 },
   { id: 6, date: '2026-06-07', merchant: 'Urban Threads', category: 'Shopping', amount: 138.2 },
   { id: 7, date: '2026-06-09', merchant: 'Green Spoon', category: 'Dining', amount: 31.8 },
-  { id: 8, date: '2026-06-11', merchant: 'Power & Water', category: 'Utilities', amount: 145.7 },
+  { id: 8, date: '2026-06-11', merchant: 'Power & Water', category: 'Utility', amount: 145.7 },
   { id: 9, date: '2026-06-13', merchant: 'Fresh Basket', category: 'Groceries', amount: 64.25 },
   { id: 10, date: '2026-06-15', merchant: 'Book Nook', category: 'Shopping', amount: 29.5 }
 ];
